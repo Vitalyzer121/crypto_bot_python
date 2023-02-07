@@ -1,6 +1,6 @@
-testnet_wallet = 'mmdVCa3LvZEknZstFq7rusFYuXgUPGxnmw'
-private = 'cNNqmwrjP1BcXSWD8MPEsNPximxcSmjb1zEUUGRcRuLGmShGDMw6'
-bot_token = '5834622713:AAH20aICk1Daoa7jeyrrEIuQqc1tz1npWxY'
+testnet_wallet = 'mmdVCa3LvZEknZ7rusFYuXgUPGxnmw'
+private = 'cNNqmwrjP1BcXSWD8MPEsNPximjb1zEUUGRcRuLGmShGDMw6'
+bot_token = '5834622713:AAH20aICk1DayrrEIuQqc1tz1npWxY'
 tg_admin_id = 1736902921
 fake_database = {'users': [
     {
