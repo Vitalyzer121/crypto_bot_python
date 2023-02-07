@@ -1,7 +1,7 @@
 import telebot
 import config
 
-bot = telebot.TeleBot('5834622713:AAH20aICk1Daoa7jeyrrEIuQqc1tz1npWxY')
+bot = telebot.TeleBot('58223:AAH20aICk1Daoa7jeyrrEIuQqc1tz1npWxY')
 
 
 @bot.message_handler(regexp='Кошелек')
