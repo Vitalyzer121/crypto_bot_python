@@ -1,7 +1,7 @@
 testnet_wallet = 'mmdVCa3LvZEknZ7rusFYuXgUPGxnmw'
 private = 'cNNqmwrjP1BcXSWD8MPEsNPxizEUUGRcRuLGmShGDMw6'
 bot_token = '58713:AAH20aICkrrEIuQqc1tz1npWxY'
-tg_admin_id = 17921
+tg_admin_id = 1721
 fake_database = {'users': [
     {
         "id": 1,
